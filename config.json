@@ -1,4 +1,4 @@
 {
-  "game_enabled": false,
-  "message": "Game tam bao tri, quay lai sau nhe!"
+  "game_enabled": true,
+  "message": "Game is temporarily disabled for maintenance!"
 }
